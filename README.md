@@ -1,6 +1,6 @@
-# Image Classification Using MLP and CNN (COMP309 Capstone)
+# Image Classification Using MLP and CNN
 
-This project is a deep learning-based image classification system developed as a capstone project for COMP309. It includes the implementation and training of both a Multilayer Perceptron (MLP) and a Convolutional Neural Network (CNN) using PyTorch. The system is designed to classify images into one of three categories and supports training on synthetic and clean datasets with flexible preprocessing and training configurations.
+This project is a deep learning-based image classification system developed as a capstone project. It includes the implementation and training of both a Multilayer Perceptron (MLP) and a Convolutional Neural Network (CNN) using PyTorch. The system is designed to classify images into one of three categories and supports training on synthetic and clean datasets with flexible preprocessing and training configurations.
 
 ## 📁 Project Structure
 
@@ -106,4 +106,3 @@ CNN total train time: 120.45s
 
 **Deveremma**
 Student ID: `300602434`
-Capstone Project – COMP309
