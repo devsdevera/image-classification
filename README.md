@@ -104,5 +104,4 @@ CNN total train time: 120.45s
 
 ## 👤 Author
 
-**Deveremma**
-Student ID: `300602434`
+**Emmanuel De Vera**
